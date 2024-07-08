@@ -1,5 +1,5 @@
 
-# Space Odyssey X:
+# Space Odyssey X
 
 Welcome to **Space Odyssey X**, an exhilarating treasure hunt experience created for FMaC, BITS Goa. Dive into a world where movie magic meets interactive adventure, featuring themes of zombies, time travel, and prison breaks.
 
