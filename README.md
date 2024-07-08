@@ -19,6 +19,5 @@ Welcome to **Space Odyssey X**, an exhilarating treasure hunt experience created
 ## How It Works
 
 1. **Setup:** The app is designed to guide participants through various rounds, each with unique clues and QR codes.
-2. **Navigation:** Use the embedded Google Maps links to find specific locations.
-3. **Clues:** Decode visual and video clues provided in different formats.
-4. **QR Codes:** Scan QR codes hidden in various parts of the app to unlock the next stage.
+2. **Clues:** Decode visual and video clues provided in different formats.
+3. **QR Codes:** Scan QR codes hidden in various parts of the app to unlock the next stage.
