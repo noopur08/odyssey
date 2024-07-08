@@ -1,6 +1,3 @@
-Here's a README template for your "Space Odyssey X" treasure hunt app:
-
----
 
 # Space Odyssey X:
 
