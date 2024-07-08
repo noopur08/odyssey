@@ -1,5 +1,5 @@
 <html>
-<!-- This is an example file to update clues and QRs in the database. Follow steps from README.md and make changes accordingly.-->
+
 
 <head>
     <script src="https://www.gstatic.com/firebasejs/8.2.9/firebase-app.js"></script>
@@ -8,7 +8,7 @@
 
 <body>
     <script>
-        // Replace the following block with your SDK setup and configuration. Get this from Firebase Console > Project Overview > Project Settings > General > Your Apps > SDK setup and configuration > config
+        
         const firebaseConfig = {
 			  apiKey: "AIzaSyAHaecOe_cplDGjySJdXL9o4vacpAiOhsk",
 			  authDomain: "odyssey-x.firebaseapp.com",
@@ -19,10 +19,10 @@
 			  measurementId: "G-9F794S37RL"
 		};
 
-        // Initialise database
+        
         firebase.initializeApp(firebaseConfig);
 
-        // Set up clues
+        
         firebase.database().ref('Clues').child('round0').set({
             // 12 (6 Google maps location embed links)
             clue1: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1126.3141463853326!2d73.87802200650398!3d15.391012923187285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbfb8375851666d%3A0x4ad5683010110240!2sBITS%20Pilani%20K%20K%20Birla%20Goa%20Campus!5e0!3m2!1sen!2sin!4v1720463636675!5m2!1sen!2sin',
@@ -46,7 +46,7 @@
         });
 
         // Set up QRs
-        /*For example: To make a QR for r0q1: 'abcd'
+        /*To make a QR for r0q1: 'abcd'
         firebase.database().ref('QRs').child('qrs').set({
             // round 0
             r0q1: 'abcd',
