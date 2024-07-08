@@ -4,7 +4,7 @@ Here's a README template for your "Space Odyssey X" treasure hunt app:
 
 # Space Odyssey X: The Ultimate Treasure Hunt Adventure
 
-Welcome to **Space Odyssey X**, an exhilarating treasure hunt experience created for the Film and Media Arts Club (FMAC) at BITS Goa. Dive into a world where movie magic meets interactive adventure, featuring themes of zombies, time travel, and prison breaks.
+Welcome to **Space Odyssey X**, an exhilarating treasure hunt experience created for the Film Making Club, BITS Goa. Dive into a world where movie magic meets interactive adventure, featuring themes of zombies, time travel, and prison breaks.
 
 ## Overview
 
